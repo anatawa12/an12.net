@@ -15,3 +15,6 @@
 
 # tests
 /test https://github.com/anatawa12/an12.net/ 301
+
+# links in Avatar Optimizer. Don't remove them
+/aao/:lang/faq-tao-issues https://vpm.anatawa12.com/avatar-optimizer/:lang/docs/faq/#avatar-behavior-or-appearance-changed-when-using-aao-trace-and-optimize-component
